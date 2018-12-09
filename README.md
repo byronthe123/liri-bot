@@ -61,7 +61,7 @@ The user will be prompted with the following:
 
   
 
----------------------- NEW SEARCH ------------------------
+`---------------------- NEW SEARCH ------------------------
 
 ? what do you want to do? (Use arrow keys)
 
@@ -71,7 +71,7 @@ concert-this
 
 spotify-this-song
 
-do-what-it-says
+do-what-it-says`
 
   
 
@@ -85,7 +85,7 @@ The user must type in a **search term**. Depending on the action and search term
 
   
 
----------------------- NEW SEARCH ------------------------
+`---------------------- NEW SEARCH ------------------------
 
 ? what do you want to do? movie-this
 
@@ -105,7 +105,7 @@ Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
 
 imdbRating: 8.8
 
-Rotten Tomatoes Rating: 91%
+Rotten Tomatoes Rating: 91%`
 
   
 
