@@ -61,17 +61,17 @@ The user will be prompted with the following:
 
   
 
-`---------------------- NEW SEARCH ------------------------
+`---------------------- NEW SEARCH ------------------------`
 
-? what do you want to do? (Use arrow keys)
+`? what do you want to do? (Use arrow keys)`
 
-> movie-this
+`> movie-this`
 
-concert-this
+`concert-this`
 
-spotify-this-song
+`spotify-this-song`
 
-do-what-it-says`
+`do-what-it-says`
 
   
 
@@ -79,33 +79,33 @@ The user must select one of the options to proceed. Next the user will be shown 
 
   
 
-? what do you want to search?
+`? what do you want to search?`
 
 The user must type in a **search term**. Depending on the action and search term, the app will fetch and display data to the user in the following format:
 
   
 
-`---------------------- NEW SEARCH ------------------------
+`---------------------- NEW SEARCH ------------------------`
 
-? what do you want to do? movie-this
+`? what do you want to do? movie-this`
 
-? what do you want to search? the fellowship of the ring
+`? what do you want to search? the fellowship of the ring`
 
-Title: The Lord of the Rings: The Fellowship of the Ring
+`Title: The Lord of the Rings: The Fellowship of the Ring`
 
-Year: 2001
+`Year: 2001`
 
-Country: New Zealand, USA
+`Country: New Zealand, USA`
 
-Language: English, Sindarin
+`Language: English, Sindarin`
 
-Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+`Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.`
 
-Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+`Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker`
 
-imdbRating: 8.8
+`imdbRating: 8.8`
 
-Rotten Tomatoes Rating: 91%`
+`Rotten Tomatoes Rating: 91%``
 
   
 
